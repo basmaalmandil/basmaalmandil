@@ -9,11 +9,7 @@ Business & Technology Engeneering at **NYU Tandon**. Exploring ideas through thi
 
 ### Selected work
 
-**[Riyadh Operations Digital Twin](https://github.com/basmaalmandil/riyadh-ops-digital-twin)**  
-Making Riyadh’s municipal data easier to explore through maps, district comparisons, and an interactive dashboard.
 
-[Explore the demo ↗](https://riyadh-ops-digital-twin.bmohammedalmandil.chatgpt.site)
 
----
 
 [Website ↗](https://miftksa.com) &nbsp; · &nbsp; [LinkedIn ↗](https://linkedin.com/in/basmaalmandil) &nbsp; · &nbsp; [More projects ↗](https://github.com/basmaalmandil?tab=repositories)
