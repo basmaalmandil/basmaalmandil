@@ -1,8 +1,8 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="header-light.png">
-  <source media="(prefers-reduced-motion: reduce)" srcset="header-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="header-light.gif">
-  <img src="header-dark.gif" alt="Basma — curiosity, built. Business and technology at NYU Tandon, New York. A soft mint highlight sweeps across the wordmark." width="1200">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="header-light.png?v=saudi">
+  <source media="(prefers-reduced-motion: reduce)" srcset="header-dark.png?v=saudi">
+  <source media="(prefers-color-scheme: light)" srcset="header-light.gif?v=saudi">
+  <img src="header-dark.gif?v=saudi" alt="i build stuff i wish existed. White and green typography beside a gold Saudi palm-and-crossed-swords emblem; existed fills from outline to solid green." width="1200">
 </picture>
 
 Business & Technology at **NYU Tandon**. Exploring ideas through things I build.
