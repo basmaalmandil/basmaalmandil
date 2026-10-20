@@ -5,7 +5,7 @@
   <img src="header-dark.gif?v=saudi" alt="i build stuff i wish existed. White and green typography beside a gold Saudi palm-and-crossed-swords emblem; existed fills from outline to solid green." width="1200">
 </picture>
 
-Business & Technology at **NYU Tandon**. Exploring ideas through things I build.
+Business & Technology Engeneering at **NYU Tandon**. Exploring ideas through things I build.
 
 ### Selected work
 
